@@ -82,3 +82,12 @@ To get started with Job-board, follow these steps:
 Job-board is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Page Look
+
+![MyJobs](https://github.com/user-attachments/assets/4ec4bb18-d6a9-427a-bc2b-a7ba8653edb0)
+
+![Main Page](https://github.com/user-attachments/assets/97384560-e8c5-4461-a68e-617c5d4a770e)
+
+![Job Application](https://github.com/user-attachments/assets/b6b3faac-810b-4853-be21-d7559cf2aed2)
+
+
+
